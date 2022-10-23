@@ -120,9 +120,9 @@ export default {
     </div>
   </div>
   <div class="page-header min-vh-65">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="card mx-auto col-xl-9 col-lg-5 col-md-7 d-flex flex-column mx-lg-0">
+                <div class="card mx-auto d-flex flex-column">
                     <div class="card-plain">
                         <div class="pb-0 card-header text-start">
                             <h4 class="font-weight-bolder text-center">Add ToDo</h4>
@@ -149,9 +149,9 @@ export default {
                 </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="card mx-auto col-xl-9 col-lg-5 col-md-7 d-flex flex-column mx-lg-0">
+                <div class="card mx-auto d-flex flex-column">
                     <div class="card-plain">
                         <div class="pb-0 card-header text-start">
                             <h4 class="font-weight-bolder text-center">Del ToDo</h4>
@@ -174,9 +174,9 @@ export default {
                 </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="card mx-auto col-xl-9 col-lg-5 col-md-7 d-flex flex-column mx-lg-0">
+                <div class="card mx-auto d-flex flex-column">
                     <div class="card-plain">
                         <div class="pb-0 card-header text-start">
                             <h4 class="font-weight-bolder text-center">Update ToDo</h4>

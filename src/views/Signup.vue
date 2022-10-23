@@ -163,6 +163,7 @@ export default {
                 alert("Register Successful\nPlease login with your account");
                 this.$router.push({ name: 'Signin'});
             } catch (e) {
+                alert("Register Unsuccessful\nPlease change the input");
                 console.error('methods signup error', e);
             }
         },
